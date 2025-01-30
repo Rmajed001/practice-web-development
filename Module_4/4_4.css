@@ -1,0 +1,15 @@
+table{
+    border-collapse: collapse;
+    border-color: lightblue;
+}
+td,th{
+    border:  2px solid seagreen ;
+    padding: 10px 12px;
+    background: linear-gradient(to right,lightblue,lightgreen);
+}
+h2{
+    text-align: center;
+}
+body{
+    background: linear-gradient(lightblue rgb(82, 6, 163));
+}

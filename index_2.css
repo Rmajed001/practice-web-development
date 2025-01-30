@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    background-color: aquamarine;
+    color: rgb(72, 9, 44);
+    border-top-style: dashed ;
+    border-bottom-style: dashed;
+    border-left-style:dashed ;
+    border-right-style: dashed;
+}
+p{
+    background-color: black;
+    color: rgb(81, 17, 17);
+    border: 10px 30px 43px 1px;
+    border-radius: 15px;
+    text-align: center;
+    border-color: rgba(161, 38, 7, 0.349);
+    padding: 10px;
+}
+#odd{
+    background-color: tomato;
+}
+#even{
+    background-color: blueviolet;
+}
+/* body{
+    background-color: rgb(14, 157, 114);
+} */
+.blk{
+    background-color: rgb(28, 89, 143);
+    border-width: 15px;
+    border-radius:solid 18px;
+    text-align: center;
+    padding: 5px;
+    border-color: gold;
+}

@@ -1,0 +1,154 @@
+h2{
+    text-align: center;
+    background: linear-gradient(lightcoral,lightgreen);
+
+}
+*{
+    background-color: rgb(101, 178, 23)
+    ;
+}
+#Amma{
+background-color: red;
+
+    border-radius: 2px;
+    border-style: dashed;
+    border-color: gold;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    border-width: 0cqmax;
+    text-align: center;
+    text-decoration: dashed;
+    color:burlywood;
+}
+.bideshi{
+    background-color: rgb(97, 97, 197);
+}
+#Ammu{
+    background-color: aqua;
+    border-radius: 2px;
+    border-style: dashed;
+    border-color: gold;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    border-width: 0cqmax;
+    text-align: center;
+    text-decoration: dashed;
+}
+#Mom{
+    background-color: saddlebrown;
+    border-radius: 2px;
+    border-style: dashed;
+    border-color: gold;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    border-width: 0cqmax;
+    text-align: center;
+    text-decoration: dashed;
+    color: whitesmoke;
+}
+#Maiji{
+    background-color: antiquewhite;
+    border-radius: 2px;
+    border-style: dashed;
+    border-color: gold;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    border-width: 0cqmax;
+    text-align: center;
+    text-decoration: dashed;
+    color:burlywood;
+}
+#Mommy{
+    background-color: lemonchiffon;
+    border-radius: 2px;
+    border-style: dashed;
+    border-color: gold;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    border-width: 0cqmax;
+    text-align: center;
+    text-decoration: dashed;
+    color:rgb(18, 17, 15);
+}
+.Amar{
+    background-color: rgb(44, 112, 139);
+}
+#Baba{
+    background-color: rgb(145, 79, 101);
+    border-radius: 2px;
+    border-style: dashed;
+    border-color: gold;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    border-width: 0cqmax;
+    text-align: center;
+    text-decoration: dashed;
+    color:rgb(137, 32, 11);
+}
+#Abba{
+    background-color: lemonchiffon;
+    border-radius: 2px;
+    border-style: dashed;
+    border-color: gold;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    border-width: 0cqmax;
+    text-align: center;
+    text-decoration: dashed;
+    color:rgb(18, 17, 15);
+}
+#Abbu{
+    background-color: rgb(14, 106, 101);
+    border-radius: 2px;
+    border-style: dashed;
+    border-color: gold;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    border-width: 0cqmax;
+    text-align: center;
+    text-decoration: dashed;
+    color:rgb(220, 12, 71);
+}
+#Abbajan{
+    background-color: lightblue;
+    border-radius: 2px;
+    border-style: dashed;
+    border-color: gold;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    border-width: 0cqmax;
+    text-align: center;
+    text-decoration: dashed;
+    color:rgb(18, 17, 15);
+}
+#Baf{
+    background-color: rgb(100, 9, 9);
+    border-radius: 2px;
+    border-style: dashed;
+    border-color: gold;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    border-width: 0cqmax;
+    text-align: center;
+    text-decoration: dashed;
+    color:white;
+}
+#Daddy{
+    background-color: rgb(18, 58, 167);
+    border-radius: 2px;
+    border-style: dashed;
+    border-color: gold;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    border-width: 0cqmax;
+    text-align: center;
+    text-decoration: dashed;
+    color:rgb(253, 251, 248);
+}
+p{
+    box-sizing: border-box;
+    background-color: brown;
+    color: aliceblue;
+    border-radius: 10px;
+    padding: 8px;
+}

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Html Table draw</title>
+    <style>
+        table{
+            border-collapse: collapse;
+            background: linear-gradient(to right,lightseagreen, skyblue);
+            position:relative ;
+            margin: auto;
+            width: 80%;
+        }
+        td,th{
+            border: 1px solid lightpink;
+            padding: 2px 4px ;
+            background: linear-gradient(to right,lightseagreen, rgb(19, 129, 173));
+            text-align: center;
+        }
+        h2{
+            background-color: brown;
+            color: whitesmoke;
+            text-align: center;
+        }
+caption{
+    background-color: #ff63ff;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 100%;
+    position: relative;
+    caption-side: top;
+
+}
+body{
+    background-color: gray;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.center-table{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+
+}
+    </style>
+</head>
+<body >
+    <h2>Jani na kita kortay</h2>
+    <caption >Richman in history</caption>
+    <table class="center-table">
+        <thead>
+          <tr>
+            <th>No.</th>
+            <th>Name</th>
+            <th>Sallary</th>
+            <th>Origin</th>
+          </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Ruhul</td>
+                <td>$3000</td>
+                <td>Bangladeshi</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Razib</td>
+                <td>$3200</td>
+                <td>Indian</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Rony</td>
+                <td>$3300</td>
+                <td>Bangladeshi</td>
+            </tr>
+        </tbody>
+        <tfoot>
+<tr>
+    <td colspan="4">Lorem ipsum dolor sit amet.</td>
+</tr>
+        </tfoot>
+    </table>
+</body>
+</html>

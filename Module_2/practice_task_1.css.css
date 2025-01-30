@@ -1,0 +1,22 @@
+p{
+  background-color: gray;
+  border-radius: 10px;
+  margin: auto;
+  padding: auto; 
+  color: white; 
+  border-style: solid;
+  /* border-color: gold; */
+}
+body{
+    background:linear-gradient(lightgreen, skyblue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h3{
+    color: white;
+    text-align: center;
+    background-color: skyblue;
+    padding: auto;
+    border-style: solid;
+    /* border-color: tomato; */
+}
