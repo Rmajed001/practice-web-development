@@ -1,0 +1,72 @@
+<!-- module 4 of 3:
+ এই মডিউলে শেখান হয়েছে কীভাবে একটি ফর্ম তৈরী করা হবে 
+ legend tag fieldset tag   -->
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jamal er mar pitha</title>
+    <style>
+        label{
+            display: block;
+            margin-bottom: 10px;
+        }
+    </style>
+    <link rel="shortcut icon" href="../bg8.jpeg" type="image/x-icon">   
+</head>
+<body>
+    <header>
+
+    </header>
+    <main>
+        <section>
+            <h2>pleace fill up this form</h2>
+            <form>
+                <label for="Name">Your Name: 
+                    <input type="text" placeholder="Your Name" id="Name">
+                </label>
+                <label for="email">Your Email:
+                    <input type="email" name="" id="email" placeholder="Your Email">
+                </label>
+                <label for="phone">Your Phone:
+                    <input type="number" name="" id="number"  placeholder="Your Phone">
+                </label>
+                <fieldset>
+                    <legend>Pick one</legend>
+                    <label for="chitoy">
+                        <input type="radio" name="pitha" id="chitoy">chitoy
+                    </label>
+                    <label for="Sondesh">
+                        <input type="radio" name="pitha" id="Sondesh">Sondesh
+                    </label>
+                </fieldset>
+                <fieldset>
+                    <legend>It is a another option</legend>
+                    <label for="Milk">
+                        <input type="radio" name="option" id="Milk">Milk
+                    </label>
+                    <label for="Drinks">
+                        <input type="radio" name="option" id="Drinks">Drinks
+                    </label>
+                </fieldset>
+                <fieldset>
+                    <legend>Instruction</legend>
+                    <textarea name="" id="" cols="20" rows="10"></textarea>
+                </fieldset>
+                <input style="color: black; background-color: green;
+                margin-left: 100px; margin-right: 60px;" 
+                mr type="reset" value="reset">
+                <input style="color: brown; background-color: greenyellow;" type="submit" value="submit">
+
+            </form>
+        </section>
+    </main>
+    <footer></footer>
+    
+</body>
+</html>

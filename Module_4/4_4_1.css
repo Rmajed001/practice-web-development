@@ -1,62 +1,75 @@
-table{
+table {
     border-collapse: collapse;
-    background: linear-gradient(to right,lightseagreen, skyblue);
-    position:relative ;
+    background: linear-gradient(to right, lightseagreen, skyblue);
+    position: relative;
     margin: auto;
     width: 80%;
 }
-td,th{
+
+td,
+th {
     border: 1px solid lightpink;
-    padding: 2px 4px ;
-    background: linear-gradient(to right,lightseagreen, rgb(19, 129, 173));
+    padding: 2px 4px;
+    background: linear-gradient(to right, lightseagreen, rgb(19, 129, 173));
     text-align: center;
 }
-h2{
+
+h2 {
     background-color: brown;
     color: whitesmoke;
     text-align: center;
     display: inline-block;
     width: 50%;
+    padding-right: 10px;
+    padding-left: 10px;
 }
-p{
-text-align: center;
-background-color: #ff63ff;
-background-size: contain;
-display:inline-block;
-margin: 0 auto;
-/* padding-bottom: 10px; */
-margin-bottom: 10px;
+
+p {
+    text-align: center;
+    background-color: #ff63ff;
+    background-size: contain;
+    display: inline-block;
+    margin: 0 auto;
+    /* padding-bottom: 10px; */
+    margin-bottom: 10px;
 }
-.name{
-display: flex;
-display: inline-block;
-justify-content: center;
-align-items: center;
+
+.name {
+    display: flex;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
 }
-body{
-background:linear-gradient(gray,firebrick);
-background-repeat: no-repeat;
-/* background-attachment: fixed;  */
-margin: 0;
-font-family: Arial, Helvetica, sans-serif;
-padding: 20px;
+
+body {
+    background: linear-gradient(gray, firebrick);
+    background-repeat: no-repeat;
+    /* background-attachment: fixed;  */
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
 }
-.center-table{
-margin-left: auto;
-margin-right: auto;
-padding: 10px;
+
+.center-table {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
 
 
 }
-p{
-text-align: center;
-background-color: #ff63ff;
-background-size: contain;
-display:inline-block;
-margin: 0 auto;
+
+p {
+    text-align: center;
+    background-color: #ff63ff;
+    background-size: contain;
+    display: inline-block;
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-right: 20px;
 }
-.name{
-display: flex;
-margin-bottom: 10px;
-flex-direction: column;
+
+.name {
+    display: flex;
+    margin-bottom: 10px;
+    flex-direction: column;
 }
